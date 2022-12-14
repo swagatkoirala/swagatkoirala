@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-🔭 I’m currently working on Finnove Technologies Pvt. Ltd.
+🔭 I’m currently searching for work.
 <br/>
 📫 How to reach me:
 <br/>
