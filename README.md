@@ -3,8 +3,7 @@
 ### I'm <a href="https://swagatkoirala.com.np" target="_blank">Swagat Koirala</a>!
 <br/>
 <br/>
-
-🔭 I’m currently searching for work.
+🔭 I’m currently working as a Full Stack Developer at Palm Mind Technology.
 <br/>
 📫 How to reach me:
 <br/>
