@@ -35,22 +35,16 @@
   <br/>
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagatkoirala&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 ---
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://https://open.spotify.com/user/umaner24rducz94ev2r4d4ddb)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://https://open.spotify.com/user/bigq2tbq2qv82uglwxu8ajifx)
 <br/>
   
 ---
-
-### Packages Published
-1. [set-utils](https://www.npmjs.com/package/@swagatkoirala/set-utils): This is a collection of utils related to array of primitive types such as number, string, etc.
-
-2. [ts-sum](https://www.npmjs.com/package/@swagatkoirala/ts-sum): A simple packages to get sum of numbers.
-
 #### Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatkoirala&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatkoirala&theme=github_dark)
@@ -58,5 +52,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swagatkoirala&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   
-[![Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagatkoirala&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagatkoirala&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
