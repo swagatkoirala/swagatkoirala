@@ -37,20 +37,20 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagatkoirala&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   -->
----
+<!-- --- -->
 
+#### Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatkoirala&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatkoirala&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swagatkoirala&theme=github_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swagatkoirala&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+------
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://https://open.spotify.com/user/bigq2tbq2qv82uglwxu8ajifx)
 <br/>
   
 ---
-#### Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatkoirala&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatkoirala&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swagatkoirala&theme=github_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swagatkoirala&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-  
-<!-- [![Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagatkoirala&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagatkoirala&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
