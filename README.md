@@ -12,8 +12,12 @@
 <a href="https://linkedin.com/in/swagatkoirala" target="_blank"><img align="left" alt="Swagat Koirala | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://instagram.com/swagat_koirala" target="_blank"><img align="left" alt="Swagat koirala | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <br />
-<br />
-  
+------
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://https://open.spotify.com/user/bigq2tbq2qv82uglwxu8ajifx)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swagatkoirala&theme=github_dark) -->
+
  ---
 <!--   
 ### Languages and Tools:
@@ -41,16 +45,8 @@
 
 #### Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatkoirala&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatkoirala&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swagatkoirala&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatkoirala&theme=github_dark) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swagatkoirala&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-------
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://https://open.spotify.com/user/bigq2tbq2qv82uglwxu8ajifx)
-<br/>
-  
----
 [![Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagatkoirala&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+  
