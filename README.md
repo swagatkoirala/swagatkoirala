@@ -2,9 +2,6 @@
 
 ### I'm <a href="https://swagatkoirala.com.np" target="_blank">Swagat Koirala</a>!
 <br/>
-<br/>
-🔭 I’m currently working as a Full Stack Developer at Palm Mind Technology.
-<br/>
 📫 How to reach me:
 <br/>
 <br/>
@@ -13,13 +10,13 @@
 <a href="https://instagram.com/swagat_koirala" target="_blank"><img align="left" alt="Swagat koirala | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <br />
  
+ 
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://https://open.spotify.com/user/bigq2tbq2qv82uglwxu8ajifx)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swagatkoirala&theme=github_dark) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swagatkoirala&theme=github_dark)
 
  ---
-<!--   
 ### Languages and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
@@ -40,8 +37,7 @@
   <br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagatkoirala&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  -->
-<!-- --- -->
+---
 
 #### Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatkoirala&theme=github_dark)
