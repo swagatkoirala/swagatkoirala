@@ -50,7 +50,5 @@
 [![Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagatkoirala&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
  ---  
- 
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swagatkoirala&bg_color=11030b&color=5dce12&line=d33c3c&point=ece4e4&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swagatkoirala&bg_color=11030b&color=5dce12&line=d33c3c&point=ece4e4&area=true&hide_border=true)
  
