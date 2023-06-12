@@ -37,14 +37,11 @@
   <br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagatkoirala&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swagatkoirala&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 #### Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagatkoirala&theme=github_dark)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swagatkoirala&theme=github_dark) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swagatkoirala&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Swagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=swagatkoirala&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
- ---  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=swagatkoirala&bg_color=11030b&color=5dce12&line=d33c3c&point=ece4e4&area=true&hide_border=true)
- 
+
