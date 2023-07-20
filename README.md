@@ -2,6 +2,7 @@
 
 ### I'm <a href="https://swagatkoirala.com.np" target="_blank">Swagat Koirala</a>!
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatkoirala&label=Profile%20views&color=0e75b6&style=flat" alt="swagatkoirala" /> </p>
 📫 How to reach me:
 <br/>
 <br/>
