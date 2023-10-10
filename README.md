@@ -9,14 +9,7 @@
 <a href="https://linkedin.com/in/swagatkoirala" target="_blank"><img align="left" alt="Swagat Koirala | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://instagram.com/swagat_koirala" target="_blank"><img align="left" alt="Swagat koirala | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <br />
- 
- 
-### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://https://open.spotify.com/user/bigq2tbq2qv82uglwxu8ajifx)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swagatkoirala&theme=github_dark)
-
- ---
 ### Languages and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
