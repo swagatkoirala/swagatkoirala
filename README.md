@@ -32,7 +32,6 @@
  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
   <br/>
-  <br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swagatkoirala&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swagatkoirala&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
