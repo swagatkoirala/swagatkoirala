@@ -7,7 +7,7 @@
 <br/>
 <a href="https://swagatkoirala.com.np" target="_blank"><img align="left" alt="swagatkoirala" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/swagatkoirala" target="_blank"><img align="left" alt="Swagat Koirala | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/swagat_koirala" target="_blank"><img align="left" alt="Swagat koirala | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://instagram.com/swagatraj_koirala" target="_blank"><img align="left" alt="Swagat koirala | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <br />
 
 ### Languages and Tools:
